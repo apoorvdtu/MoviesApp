@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/MoviesApp/static/js/main.6ff73dee.js",
+    "static/media/HeaderImg.png": "/MoviesApp/static/media/HeaderImg.988565f9bb3eecdfb7c9.png",
+    "index.html": "/MoviesApp/index.html",
+    "main.6ff73dee.js.map": "/MoviesApp/static/js/main.6ff73dee.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6ff73dee.js"
+  ]
+}
